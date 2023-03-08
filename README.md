@@ -1,3 +1,4 @@
 # intro
-Name: Nguyễn Nhật Anh
-ID: BI12-022
+Name: Nguyễn Nhật Anh 
+
+Student ID: BI12-022
